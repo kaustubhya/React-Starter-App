@@ -1,0 +1,15 @@
+React has both function based and class based components.
+
+Now a days, function based components are more popular
+
+JSX - JavaScript Syntax Extension
+
+JSX is almost like HTML but with a few changes:
+here we have 'className' instead of 'class' as class is a reserved keyword in JS.
+
+Similarly due to reserved keywords in JS, use:
+
+htmlFor instead of for 
+
+We can only put one opening and closing tag here, if we have adjacent
+opening and closing tags, just enclose it under, <> </>. 
